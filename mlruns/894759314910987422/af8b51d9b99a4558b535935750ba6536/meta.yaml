@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/894759314910987422/af8b51d9b99a4558b535935750ba6536/artifacts
+end_time: 1748209169434
+entry_point_name: ''
+experiment_id: '894759314910987422'
+lifecycle_stage: active
+run_id: af8b51d9b99a4558b535935750ba6536
+run_name: gregarious-crane-566
+run_uuid: af8b51d9b99a4558b535935750ba6536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748209169235
+status: 3
+tags: []
+user_id: nikhilnagar503

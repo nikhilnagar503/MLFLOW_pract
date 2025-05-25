@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/894759314910987422/aa62fc890cb34425b7829c7c7a4fcb52/artifacts
+end_time: 1748209172223
+entry_point_name: ''
+experiment_id: '894759314910987422'
+lifecycle_stage: active
+run_id: aa62fc890cb34425b7829c7c7a4fcb52
+run_name: charming-slug-537
+run_uuid: aa62fc890cb34425b7829c7c7a4fcb52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748209171967
+status: 3
+tags: []
+user_id: nikhilnagar503

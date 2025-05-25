@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/894759314910987422/6185ef3f5e03424abcdd276e9f06096e/artifacts
+end_time: 1748209172543
+entry_point_name: ''
+experiment_id: '894759314910987422'
+lifecycle_stage: active
+run_id: 6185ef3f5e03424abcdd276e9f06096e
+run_name: zealous-gnu-242
+run_uuid: 6185ef3f5e03424abcdd276e9f06096e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748209172343
+status: 3
+tags: []
+user_id: nikhilnagar503
