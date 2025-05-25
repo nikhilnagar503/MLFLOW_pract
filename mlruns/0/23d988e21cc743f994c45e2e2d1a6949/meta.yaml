@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/23d988e21cc743f994c45e2e2d1a6949/artifacts
+end_time: 1748204619364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23d988e21cc743f994c45e2e2d1a6949
+run_name: classy-shrike-357
+run_uuid: 23d988e21cc743f994c45e2e2d1a6949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748204615428
+status: 3
+tags: []
+user_id: nagar

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ebce2b9580654659aea90a9e3108c8e4/artifacts
+deleted_time: 1748204523511
+end_time: 1748204489187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ebce2b9580654659aea90a9e3108c8e4
+run_name: useful-crab-989
+run_uuid: ebce2b9580654659aea90a9e3108c8e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748204488706
+status: 4
+tags: []
+user_id: nagar

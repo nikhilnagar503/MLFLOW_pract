@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9b916ca9e9ea491086965c6aada17059/artifacts
+end_time: 1748204642557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b916ca9e9ea491086965c6aada17059
+run_name: loud-bug-297
+run_uuid: 9b916ca9e9ea491086965c6aada17059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748204638626
+status: 3
+tags: []
+user_id: nagar
